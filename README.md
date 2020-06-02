@@ -17,7 +17,7 @@
 ## 使用
 ### 在伺服器端中
 運行時請自行把 伺服器端中的 SimplerChat 檔案放至入伺服器localhost低下的目錄
-運行時請自行更改 伺服器端/SimplerChat/API/DB.php 中發入資料庫的帳號和密碼
+運行時請自行更改 伺服器端/SimplerChat/API/DB.php 中發入資料庫的帳號和密碼  
 運行時請自行把 thetalk.sql 自行匯入至資料庫  
   
 ### 在客戶端中
