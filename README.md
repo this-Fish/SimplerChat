@@ -2,8 +2,8 @@
 基於swift編寫的即時聊天應用
 
 ## 項目演示
-![1](https://i.loli.net/2020/06/02/sAGRrjt1bXnpoJU.gif)
-![2](https://i.loli.net/2020/06/02/C3coJQpEuK4U21j.gif)
+![1](項目演示.gif)
+
 
 ## 介紹
 該項目分為兩部分：  
