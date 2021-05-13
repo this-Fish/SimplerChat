@@ -2,7 +2,7 @@
 基於swift編寫的即時聊天應用
 
 ## 項目演示
-![1](項目演示.gif)
+![1](https://github.com/this-Fish/SimplerChat/項目演示/項目演示.gif)
 
 
 ## 介紹
